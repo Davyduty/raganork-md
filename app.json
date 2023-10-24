@@ -1,11 +1,11 @@
 {
-	"name": "Deploy",
+	"name": "Davyduty",
 	"description": "Wa Bot.",
 	"keywords": [
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/raganork-ind/whatsapp-bot",
+	"repository": "https://github.com/Davyduty/whatsapp-bot",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
