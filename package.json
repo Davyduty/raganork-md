@@ -1,9 +1,9 @@
 {
-  "name": "raganork-md",
+  "name": "Davyduty",
   "version": "4.0.0",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "Davyduty whatsapp bot- Multi device version.",
   "scripts": {
-    "start": "pm2 start . --attach --name Raganork"
+    "start": "pm2 start . --attach --name Davyduty"
   },
   "repository": {
     "type": "git",
@@ -14,12 +14,12 @@
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "Davyduty",
+  "developer": "@Davydutuy",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://github.com/souravkl11/raganork#readme",
+  "homepage": "https://github.com/Davyduty/Davyduty#readme",
   "dependencies": {
-    "@adiwajshing/baileys": "git+https://github.com/souravkl11/Baileys.git",
+    "@adiwajshing/baileys": "git+https://github.com/Davyduty/Baileys.git",
     "@whiskeysockets/baileys": "6.4.0",
     "@adiwajshing/keyed-db": "0.2.4",
     "acrcloud": "1.4.0",
